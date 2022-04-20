@@ -1,1 +1,1 @@
-# RFM-ile-m-teri-segmentasyonu
+
