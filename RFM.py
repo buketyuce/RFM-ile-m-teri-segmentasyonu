@@ -1,3 +1,7 @@
+#https://archive.ics.uci.edu/ml/datasets/Online+Retail+II
+
+#Online Retail II isimli veri seti İngiltere merkezli online bir satış mağazasının 01/12/2009 - 09/12/2011 tarihleri arasındaki satışlarını içeriyor.
+
 import pandas as pd
 import datetime as dt
 
